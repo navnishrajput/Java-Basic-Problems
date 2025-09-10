@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class MultiplicationTable {
+    public static void main(String[] args) {
+        try (Scanner scanner = new Scanner(System.in)) {
+            System.out.print("Enter a number: ");
+            int number = scanner.nextInt();
+
+            System.out.println("Multiplication table of " + number + " from 6 to 9:");
+            System.out.println("-----------------------------");
+
+            for (int i = 6; i <= 9; i++) {
+                int result = number * i;
+                System.out.println(number + " * " + i + " = " + result);
+            }
+        }
+    }
+}
