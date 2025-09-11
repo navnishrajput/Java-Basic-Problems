@@ -1,4 +1,4 @@
-# Java Basic Problems Repository 🚀
+# Java Basic Problems 🚀
 
 A comprehensive collection of Java programming exercises, practice problems, and logical questions organized into structured modules.
 
