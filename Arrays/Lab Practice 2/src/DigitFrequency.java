@@ -12,7 +12,7 @@ public class DigitFrequency {
             number = -number;
         }
 
-        int[] digits = new int[50]; // Assuming max 50 digits
+        int[] digits = new int[50]; 
         int temp = number;
         int digitCount = 0;
 
