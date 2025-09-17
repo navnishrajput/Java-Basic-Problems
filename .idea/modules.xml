@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Class.iml" filepath="$PROJECT_DIR$/.idea/Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Work/Class Work.iml" filepath="$PROJECT_DIR$/Class Work/Class Work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Lab Practice 1/Lab Practice 1.iml" filepath="$PROJECT_DIR$/Arrays/Lab Practice 1/Lab Practice 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class and Object/Lab Practice 2/Lab Practice 10.iml" filepath="$PROJECT_DIR$/Class and Object/Lab Practice 2/Lab Practice 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class and Object/Lab Practice 1/Lab Practice 11.iml" filepath="$PROJECT_DIR$/Class and Object/Lab Practice 1/Lab Practice 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programing Elements/Lab Practice 2/Lab Practice 2.iml" filepath="$PROJECT_DIR$/Programing Elements/Lab Practice 2/Lab Practice 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Lab Practice 2/Lab Practice 3.iml" filepath="$PROJECT_DIR$/Arrays/Lab Practice 2/Lab Practice 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Lab Practice 3/Lab Practice 4.iml" filepath="$PROJECT_DIR$/Methods/Lab Practice 3/Lab Practice 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Lab Practice 2/Lab Practice 5.iml" filepath="$PROJECT_DIR$/Methods/Lab Practice 2/Lab Practice 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Control Flow/Lab Practice 3/Lab Practice 6.iml" filepath="$PROJECT_DIR$/Control Flow/Lab Practice 3/Lab Practice 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Lab Practice 1/Lab Practice 7.iml" filepath="$PROJECT_DIR$/Methods/Lab Practice 1/Lab Practice 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Control Flow/Lab Practice 2/Lab Practice 8.iml" filepath="$PROJECT_DIR$/Control Flow/Lab Practice 2/Lab Practice 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Control Flow/Lab Practice 1/Lab Practice 9.iml" filepath="$PROJECT_DIR$/Control Flow/Lab Practice 1/Lab Practice 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logical Questions/Logical Questions.iml" filepath="$PROJECT_DIR$/Logical Questions/Logical Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Problem/Practice Problem.iml" filepath="$PROJECT_DIR$/Practice Problem/Practice Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programing Elements/Programing Elements.iml" filepath="$PROJECT_DIR$/Programing Elements/Programing Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+    </modules>
+  </component>
+</project>
