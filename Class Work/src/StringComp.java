@@ -6,7 +6,7 @@ public class StringComp {
         String str5 = new String("Hello");
         StringBuffer st = new StringBuffer(str5);
         System.out.println(st);
-        st.lastIndexOf(st);
+        //st.lastIndexOf(st);
         st.append("   hi");
         System.out.println(st);
 
